@@ -7,4 +7,8 @@ npm-debug.log
 .hypothesis
 .ipynb_checkpoints
 .pytest_cache
+,vscode
+.vscode/*
 __pycache__
+.venv/*
+.venv
